@@ -7,15 +7,15 @@
 
 <div align="center">
 
-<img src="sections/cat-connect.svg" width="100%" alt="let's connect"/>
+<img src="cat-connect.svg" width="100%" alt="let's connect"/>
 
 <p align="center">
-<a href="" target="_blank"><img src="badges/linkedin.svg" /></a>
-<a href="" target="_blank"><img src="badges/github.svg" /></a>
-<a href="" target="_blank"><img src="badges/portfolio.svg" /></a>
-<a href="" target="_blank"><img src="badges/instagram.svg" /></a>
-<a href="" target="_blank"><img src="badges/reddit.svg" /></a>
-<a href="" target="_blank"><img src="badges/email.svg" /></a>
+<a href="" target="_blank"><img src="linkedin.svg" /></a>
+<a href="" target="_blank"><img src="github.svg" /></a>
+<a href="" target="_blank"><img src="portfolio.svg" /></a>
+<a href="" target="_blank"><img src="instagram.svg" /></a>
+<a href="" target="_blank"><img src="reddit.svg" /></a>
+<a href="" target="_blank"><img src="email.svg" /></a>
 </p>
 
 </div>
@@ -24,7 +24,7 @@
 
 ##  About Me
 
-<img src="sections/cat-walk.svg" width="100%" alt="A tiny cat with headphones walking by and saying: hey, stop scrolling, read about me"/>
+<img src="cat-walk.svg" width="100%" alt="A tiny cat with headphones walking by and saying: hey, stop scrolling, read about me"/>
 
 Hey there, I'm **Ira Verma** 👋, a Computer Science & Engineering student at **Chitkara University**, based in Khanna, Punjab, India.
 
@@ -32,13 +32,13 @@ I enjoy turning ideas into clean, fast and thoughtful web experiences. My streng
 
 This profile is my little corner of the internet: a home for my academic coursework, exam preparation notes and the modern web apps I build along the way. If something catches your eye, say hi! 🚀
 
-<img src="sections/about-card.svg" width="100%" alt="profile.conf"/>
+<img src="about-card.svg" width="100%" alt="profile.conf"/>
 
 <br/>
 
 <div align="center">
 
-<img src="sections/cat-stack.svg" width="100%" alt="i use this tech stack"/>
+<img src="cat-stack.svg" width="100%" alt="i use this tech stack"/>
 
 <br/><br/>
 
@@ -50,7 +50,7 @@ This profile is my little corner of the internet: a home for my academic coursew
 
 <div align="center">
 
-<img src="sections/cat-contrib.svg" width="100%" alt="my contributions"/>
+<img src="cat-contrib.svg" width="100%" alt="my contributions"/>
 
 <br/><br/>
 
