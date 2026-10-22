@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
+<img src="header.svg" width="100%" alt="Ira terminal header"/>
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+things+with+code+%F0%9F%92%BB;CS+Student+%40+Chitkara+University+%F0%9F%8F%AB;Always+learning,+always+shipping+%F0%9F%9A%80&font=Fira%20Code&center=true&width=550&height=45&color=E8588F&vCenter=true&size=22&pause=1200" />
+</div>
+<br/>
 
-<!--
-**IraCod3s/IraCod3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="sections/cat-connect.svg" width="100%" alt="let's connect"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="" target="_blank"><img src="badges/linkedin.svg" /></a>
+<a href="" target="_blank"><img src="badges/github.svg" /></a>
+<a href="" target="_blank"><img src="badges/portfolio.svg" /></a>
+<a href="" target="_blank"><img src="badges/instagram.svg" /></a>
+<a href="" target="_blank"><img src="badges/reddit.svg" /></a>
+<a href="" target="_blank"><img src="badges/email.svg" /></a>
+</p>
+
+</div>
+
+<br/>
+
+##  About Me
+
+<img src="sections/cat-walk.svg" width="100%" alt="A tiny cat with headphones walking by and saying: hey, stop scrolling, read about me"/>
+
+Hey there, I'm **Ira Verma** 👋, a Computer Science & Engineering student at **Chitkara University**, based in Khanna, Punjab, India.
+
+I enjoy turning ideas into clean, fast and thoughtful web experiences. My strength is **front-end web engineering**, backed by solid fundamentals in **Object-Oriented Programming with Java** and **data structures**. I'm always learning and always shipping.
+
+This profile is my little corner of the internet: a home for my academic coursework, exam preparation notes and the modern web apps I build along the way. If something catches your eye, say hi! 🚀
+
+<img src="sections/about-card.svg" width="100%" alt="profile.conf"/>
+
+<br/>
+
+<div align="center">
+
+<img src="sections/cat-stack.svg" width="100%" alt="i use this tech stack"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,c,py,java,mysql,git,github,vercel,vite,vscode&theme=light" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="sections/cat-contrib.svg" width="100%" alt="my contributions"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=F9EFE1&stroke=F7A8C4&ring=E8588F&fire=E8588F&currStreakNum=5C2440&sideNums=5C2440&currStreakLabel=D6457F&sideLabels=D6457F&dates=A67A8C" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="footer.svg" width="100%" alt="exit 0"/>
+
+</div>
